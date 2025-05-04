@@ -1,0 +1,22 @@
+{
+    "Session 1": [
+        {
+            "user": "c'est quoi le TOSA ?",
+            "assistant": " Le TOSA est un système de rechargement par induction pour les trolleybus, en démonstration à Genève depuis mai 2013."
+        },
+        {
+            "user": "ou est il utilisé",
+            "assistant": " Les bateaux urbains sont utilisés dans certaines villes pour réduire les embouteillages. Ils sont utilisés comme transport fluvial dans Londres et comme transport maritime dans Oslo, Istanbul, etc."
+        }
+    ],
+    "Session 2": [
+        {
+            "user": "Quelle est la période de la suprématie de l'autobus comme transport de surface?",
+            "assistant": " La période 1950 – 1980 sera donc celle de la suprématie de l’autobus en tant que transport de surface."
+        },
+        {
+            "user": "ville TOSA",
+            "assistant": " \"Le TOSA de Genève est une ville, mais le contexte ne fournit pas d'informations sur une ville appelée TOSA.\""
+        }
+    ]
+}

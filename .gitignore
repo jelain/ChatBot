@@ -1,0 +1,57 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+.env
+.env.local
+.env.*.local
+
+# Vue.js
+*.log
+*.local
+*.env
+*.env.*
+/dist
+/public/build
+.cache/
+.vitepress/dist
+coverage/
+*.local
+*.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+*.pyo
+.Python
+env/
+venv/
+ENV/
+.ipynb_checkpoints/
+.mypy_cache/
+.pytest_cache/
+.pyre/
+.coverage
+.tox/
+pytest-debug.log
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+*.nb.html
+
+# VSCode and JetBrains IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
